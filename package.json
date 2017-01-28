@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "faker": "3.1.0",
-    "json-server": "0.8.22"
+    "json-server": "0.9.4"
   }
 }

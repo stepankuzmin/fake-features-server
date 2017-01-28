@@ -2,7 +2,7 @@ var faker = require('faker');
 
 module.exports = function () {
   var data = { features: [] };
-  for (var i = 0; i < 10; i++) {
+  for (var i = 0; i < 1000; i++) {
     data.features.push({
       type: 'Feature',
       id: i,
