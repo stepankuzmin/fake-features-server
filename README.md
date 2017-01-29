@@ -1,5 +1,7 @@
 # Fake features server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/fake-features-server.svg)](https://greenkeeper.io/)
+
 Serve set of random features using the [json-server](https://github.com/typicode/json-server).
 
 ```shell
